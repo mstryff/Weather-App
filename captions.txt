@@ -1,0 +1,26 @@
+0, 8
+When opened, the app accesses the device's GPS and requests the local weather from the Open Weather Map API
+
+10, 15
+Alternate coordinates can be input here
+
+15, 52
+Some test input with cities in all hemispheres
+
+55, 68
+Testing invalid blank and string input
+
+68, 120
+Testing too high and too low input
+
+120, 150
+Testing edge cases
+
+151, 163
+Testing httpbin POST operations with a number and string
+
+163, 177
+Information including the POSTed string is returned, parsed, and displayed
+
+177, 190
+Finally, the user can choose to display the local weather again at any time
